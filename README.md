@@ -13,3 +13,6 @@ le menu.php construit le menu sur la gauche du site et est à personaliser
 l'index.php appel les pages.
 les liens vers les pages sont appelés in lien de ce type : /index.php?page=ma_page
 
+un exemple de site ici: 
+https://wiki.apper-solaire.org/
+
